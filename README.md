@@ -15,7 +15,7 @@ The 3000 people active in the Centres for the Emergence of the Discipline of Ant
 
 Begin by reading the Introduction and then go on to the Methodology.
 
-INTRODUCTION [INTRODUCTION](https://github.com/KelvinBeerJones/jnb_hddt_intro/blob/main/jnb_hddt_intro.ipynb "Introduction")
+[INTRODUCTION](https://github.com/KelvinBeerJones/jnb_hddt_intro/blob/main/jnb_hddt_intro.ipynb "Introduction")
 
-METHODOLOGY [https://github.com/KelvinBeerJones/ceda_database_views/blob/main/jnb_ceda_database_views.ipynb](https://github.com/KelvinBeerJones/ceda_database_views/blob/main/jnb_ceda_database_views.ipynb "Methodology")
+[METHODOLOGY](https://github.com/KelvinBeerJones/ceda_database_views/blob/main/jnb_ceda_database_views.ipynb "Methodology")
 
