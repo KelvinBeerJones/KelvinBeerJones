@@ -13,5 +13,9 @@ This approach is still immensely valuable but when surveying the modern period w
 
 The 3000 people active in the Centres for the Emergence of the Discipline of Anthropology in Britain (The CEDA) 1830 – 1870, and the 600 Quakers amongst them are the test case explored in this project. The larger and smaller communities are analysed year by year both statically and dynamically, focussing on the bigraph relationships of the larger community to the locations, occupations, societies and clubs they belonged to, and amongst the Quaker community – their family relationships.
 
-Begin by reading the Intro
+Begin by reading the Introduction and then go on to the Methodology.
+
+[https://github.com/KelvinBeerJones/jnb_hddt_intro/blob/main/jnb_hddt_intro.ipynb](https://github.com/KelvinBeerJones/jnb_hddt_intro/blob/main/jnb_hddt_intro.ipynb "Introduction")
+
+[https://github.com/KelvinBeerJones/ceda_database_views/blob/main/jnb_ceda_database_views.ipynb](https://github.com/KelvinBeerJones/ceda_database_views/blob/main/jnb_ceda_database_views.ipynb "Methodology")
 
